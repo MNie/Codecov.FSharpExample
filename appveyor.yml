@@ -1,4 +1,4 @@
-image: Visual Studio 2015
+image: Visual Studio 2017
 
 before_build:
 - nuget restore
@@ -6,7 +6,7 @@ before_build:
 - choco install codecov
 
 build:
-  project: CodecovProject.sln
+  project: CodecovExample.sln
   verbosity: minimal
 
 test_script:
