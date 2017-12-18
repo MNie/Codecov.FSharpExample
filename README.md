@@ -3,8 +3,8 @@
 | [https://codecov.io](https://codecov.io/) | [@codecov](https://twitter.com/codecov) | [hello@codecov.io](mailto:hello@codecov.io) |
 | ----------------------- | ------------- | --------------------- |
 
-[![AppVeyor](https://img.shields.io/appveyor/ci/stevepeak/example-csharp.svg)](https://ci.appveyor.com/project/stevepeak/example-csharp/branch/master)
-[![codecov](https://codecov.io/gh/codecov/example-csharp/branch/master/graph/badge.svg)](https://codecov.io/gh/codecov/example-csharp)
+[![AppVeyor](https://img.shields.io/appveyor/ci/MNie/Codecov.FSharpExample.svg)](https://ci.appveyor.com/project/MNie/Codecov.FSharpExample/branch/master)
+[![codecov](https://codecov.io/gh/MNie/Codecov.FSharpExample/branch/master/graph/badge.svg)](https://codecov.io/gh/MNie/Codecov.FSharpExample)
 
 ## Solution
 
